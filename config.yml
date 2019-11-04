@@ -4,3 +4,4 @@ title: Books
 theme: m10c
 params:
   description: " "
+  avatar: book.svg
