@@ -1,0 +1,6 @@
+baseURL: https://books.lapw.at/
+languageCode: en-us
+title: Books
+theme: m10c
+params:
+  description: " "
