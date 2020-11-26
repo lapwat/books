@@ -26,3 +26,5 @@ COPY ./nginx.conf /etc/nginx/conf.d/default.conf
 COPY --from=build /site/public /var/www/site
 
 WORKDIR /var/www/site
+
+EXPOSE 80
